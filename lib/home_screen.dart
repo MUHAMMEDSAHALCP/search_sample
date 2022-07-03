@@ -7,7 +7,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: (Colors.white),
-      child: const Text("second mmmmmmmm"),
+      child: const Text("second mmmmmmmmakjsfkjshfkasjhfjfhsadkjh"),
     );
   }
 }
